@@ -1,0 +1,14 @@
+.smegmaDiv{
+    text-align: center;
+    padding-top: 20%;
+}
+
+.smegmaButton{
+    color: white;
+    width: 250px;
+    height: 70px;
+    font-size: 25px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    border:none;
+}
